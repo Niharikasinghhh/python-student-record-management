@@ -1,0 +1,7 @@
+1,Niharika Singh,89
+1,Niharika Singh,89
+2,Deepali Anthwal,97
+3,Deep,92
+4,Vani Sharma,95
+5,Purnima verma,93
+6,Bhumika Rohilla,90
